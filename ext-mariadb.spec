@@ -21,7 +21,7 @@ Source10:                       my.cnf
 Source20:                       service.homedir.conf
 Source21:                       service.limits.conf
 
-Requires:                       MariaDB-server MariaDB-client
+Requires:                       MariaDB-server MariaDB-client ext-system
 
 %description
 META-package for install and configure MariaDB.
