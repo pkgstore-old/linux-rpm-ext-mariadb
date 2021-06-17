@@ -58,57 +58,57 @@ META-package for install and configure MariaDB.
 - UPD: Move to GitHub.
 - UPD: License.
 
-* Tue Nov 12 2019 Package Store <pkgstore@pm.me> - 1.0.2-100
+* Tue Nov 12 2019 Package Store <kitsune.solar@gmail.com> - 1.0.2-100
 - UPD: Directory names.
 
-* Sun Jul 28 2019 Package Store <pkgstore@pm.me> - 1.0.1-101
+* Sun Jul 28 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-101
 - UPD: SPEC-file.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.1-100
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.1-100
 - UPD: MariaDB config.
 - NEW: SystemD config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-114
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-114
 - UPD: MariaDB config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-113
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-113
 - UPD: MariaDB config.
 
-* Wed Jul 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-112
+* Wed Jul 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-112
 - UPD: MariaDB config.
 
-* Sat Jul 06 2019 Package Store <pkgstore@pm.me> - 1.0.0-111
+* Sat Jul 06 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-111
 - UPD: MariaDB config.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.0-110
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-110
 - UPD: MariaDB config.
 
-* Fri Jul 05 2019 Package Store <pkgstore@pm.me> - 1.0.0-109
+* Fri Jul 05 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-109
 - UPD: SPEC-file.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-108
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-108
 - UPD: DB directory.
 
-* Tue Jul 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-107
+* Tue Jul 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-107
 - UPD: SPEC-file.
 
-* Mon Jul 01 2019 Package Store <pkgstore@pm.me> - 1.0.0-106
+* Mon Jul 01 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-106
 - UPD: MariaDB config.
 
-* Fri Apr 19 2019 Package Store <pkgstore@pm.me> - 1.0.0-105
+* Fri Apr 19 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-105
 - UPD: Directory structure.
 
-* Sun Apr 14 2019 Package Store <pkgstore@pm.me> - 1.0.0-104
+* Sun Apr 14 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-104
 - UPD: Directory structure.
 
-* Sat Apr 13 2019 Package Store <pkgstore@pm.me> - 1.0.0-103
+* Sat Apr 13 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-103
 - NEW: 1.0.0-103.
 
-* Wed Apr 10 2019 Package Store <pkgstore@pm.me> - 1.0.0-102
+* Wed Apr 10 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-102
 - NEW: 1.0.0-102.
 
-* Sat Mar 30 2019 Package Store <pkgstore@pm.me> - 1.0.0-101
+* Sat Mar 30 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-101
 - NEW: 1.0.0-101.
 
-* Wed Jan 02 2019 Package Store <pkgstore@pm.me> - 1.0.0-100
+* Wed Jan 02 2019 Package Store <kitsune.solar@gmail.com> - 1.0.0-100
 - Initial build.
