@@ -1,0 +1,1 @@
+# linux-rpm-ext-mariadb
