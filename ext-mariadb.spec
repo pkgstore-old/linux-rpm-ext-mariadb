@@ -9,7 +9,7 @@
 %global d_cnf                   %{_sysconfdir}/my.cnf.d
 %global d_service               %{_sysconfdir}/systemd/system/mariadb.service.d
 
-%global release_prefix          100
+%global release_prefix          101
 
 Name:                           ext-mariadb
 Version:                        1.0.3
@@ -56,6 +56,9 @@ META-package for install and configure MariaDB.
 
 
 %changelog
+* Fri Jun 18 2021 Package Store <kitsune.solar@gmail.com> - 1.0.3-101
+- UPD: New build for latest changes.
+
 * Thu Jun 17 2021 Package Store <kitsune.solar@gmail.com> - 1.0.3-100
 - UPD: Move to GitHub.
 - UPD: License.
